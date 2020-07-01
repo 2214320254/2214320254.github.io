@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>柠檬树</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-30T12:04:07.452Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>panjb</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/hello-world/"/>
+    <id>http://yoursite.com/2020/hello-world/</id>
+    <published>2020-06-30T14:42:19.228Z</published>
+    <updated>2020-06-30T12:04:07.452Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>哈密瓜饮料</title>
+    <link href="http://yoursite.com/2020/2020-06-28-%E5%93%88%E5%AF%86%E7%93%9C%E9%A5%AE%E6%96%99/"/>
+    <id>http://yoursite.com/2020/2020-06-28-%E5%93%88%E5%AF%86%E7%93%9C%E9%A5%AE%E6%96%99/</id>
+    <published>2020-06-28T07:14:00.000Z</published>
+    <updated>2020-06-30T14:53:16.957Z</updated>
+    
+    <content type="html"><![CDATA[<p>把哈密瓜处理好</p><p><img src= "/img/loading.gif" data-src="https://st-cn.meishij.net/rs/168/223/13305918/n13305918_154579287339231.jpg" alt="img"></p><p><em>2.</em></p><p>把所有材料放进搅拌机里去搅拌</p><p><img src= "/img/loading.gif" data-src="https://st-cn.meishij.net/rs/168/223/13305918/n13305918_154579287770981.jpg" alt="img"></p><p><em>3.</em></p><p>装入瓶中，完成</p><p><img src= "/img/loading.gif" data-src="https://st-cn.meishij.net/rs/168/223/13305918/n13305918_154579288125896.jpg" alt="img"></p><h2 id="哈密瓜牛奶成品图"><a href="#哈密瓜牛奶成品图" class="headerlink" title="哈密瓜牛奶成品图"></a>哈密瓜牛奶成品图</h2><p><img src= "/img/loading.gif" data-src="https://st-cn.meishij.net/rs/168/223/13305918/n13305918_154579289192119.jpg" alt="哈密瓜牛奶成品图"></p><p><img src= "/img/loading.gif" data-src="https://st-cn.meishij.net/rs/168/223/13305918/n13305918_154579289192119.jpg" alt="哈密瓜牛奶成品图"></p><p><img src= "/img/loading.gif" data-src="https://st-cn.meishij.net/rs/168/223/13305918/n13305918_154579289192119.jpg" alt="哈密瓜牛奶成品图"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;把哈密瓜处理好&lt;/p&gt;
+&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-src=&quot;https://st-cn.meishij.net/rs/168/223/13305918/n13305918_154579287339231.jpg&quot; alt=&quot;i
+      
+    
+    </summary>
+    
+    
+      <category term="水果" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/"/>
+    
+      <category term="做法" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/%E5%81%9A%E6%B3%95/"/>
+    
+      <category term="饮料" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/%E5%81%9A%E6%B3%95/%E9%A5%AE%E6%96%99/"/>
+    
+    
+      <category term="哈密瓜，做法，饮料" scheme="http://yoursite.com/tags/%E5%93%88%E5%AF%86%E7%93%9C%EF%BC%8C%E5%81%9A%E6%B3%95%EF%BC%8C%E9%A5%AE%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>柠檬的尽情享受</title>
+    <link href="http://yoursite.com/2020/2020-06-28-%E6%9F%A0%E6%AA%AC%E7%9A%84%E5%B0%BD%E6%83%85%E4%BA%AB%E5%8F%97/"/>
+    <id>http://yoursite.com/2020/2020-06-28-%E6%9F%A0%E6%AA%AC%E7%9A%84%E5%B0%BD%E6%83%85%E4%BA%AB%E5%8F%97/</id>
+    <published>2020-06-28T07:14:00.000Z</published>
+    <updated>2020-06-30T14:45:47.133Z</updated>
+    
+    <content type="html"><![CDATA[<p>柠檬的尽情享受</p><p>原料：柠檬、冰糖、蜂蜜、盐。</p><p>做法步骤：</p><p><img src= "/img/loading.gif" data-src="https://pics7.baidu.com/feed/faf2b2119313b07e1d38557c9bc5592796dd8cd0.jpeg?token=853ac0e7654cb6e396b4fd5740233f4c&s=B401D813562363053C08CA780300D063" alt="img"></p><p>第1步、一箱柠檬，用洗碗布刷洗表面腊层后放入盐水浸泡半小时后晾干或用厨房纸擦干。</p><p><img src= "/img/loading.gif" data-src="https://pics2.baidu.com/feed/cf1b9d16fdfaaf515db238f502465ceaf01f7a3a.jpeg?token=9e0f5edb4ae9507c8b42e469121b7ea1&s=39DC778677787C3F1C978A6A0300F07B" alt="img"></p><p>第2步、蜂蜜柠檬：柠檬切片后装瓶子里，一层柠檬倒入一层蜂蜜，瓶子不要装太满，柠檬泡过后会出水，蜂蜜会沉到底下，需要经常摇匀。放冰箱保存，腌制一星期后可以泡温水喝。</p><p><img src= "/img/loading.gif" data-src="https://pics4.baidu.com/feed/d50735fae6cd7b89bdf3634782368aa3d8330e69.jpeg?token=4c0635f90d0b417fa98deda918d8cdc1&s=CEA022C4DDFE6E1FC6F8C07A03001070" alt="img"></p><p>第3步、咸柠檬：柠檬切块，瓶子底下先铺上一层盐再加入一层柠檬。一层柠檬一层盐，最上层可以多放些盐，瓶子不要装太满，柠檬泡过后会出水，出水后最上层盐化了需要加盐盖住柠檬，要不会坏。看网上说最好是用青柠檬和粗盐，大家也可以试试在。</p><p><img src= "/img/loading.gif" data-src="https://pics5.baidu.com/feed/a71ea8d3fd1f41345477aa4aaa0d5dced1c85e5d.jpeg?token=86f72f7a6b6a79e97264295cce6117b4&s=BA1005CAC40207FF9AD930BD03008040" alt="img"></p><p>第4步、柠檬膏（电压力锅版）：柠檬切片锅里铺一层柠檬一层冰糖，然后按最长时间键煲，煲好后保温一晚上，这时颜色已经发黑，比较稀的话再重复煲。放凉后会比热的时候更稠些，需要注意下不要煲太稠了，要不然凉后会硬。然然后半瓶放冰箱保存。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;柠檬的尽情享受&lt;/p&gt;
+&lt;p&gt;原料：柠檬、冰糖、蜂蜜、盐。&lt;/p&gt;
+&lt;p&gt;做法步骤：&lt;/p&gt;
+&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-src=&quot;https://pics7.baidu.com/feed/faf2b2119313b07e1d3
+      
+    
+    </summary>
+    
+    
+      <category term="水果" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/"/>
+    
+      <category term="享受" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/%E4%BA%AB%E5%8F%97/"/>
+    
+    
+      <category term="柠檬" scheme="http://yoursite.com/tags/%E6%9F%A0%E6%AA%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>夏天与西瓜</title>
+    <link href="http://yoursite.com/2020/2020-06-28-%E5%A4%8F%E5%A4%A9%E4%B8%8E%E8%A5%BF%E7%93%9C/"/>
+    <id>http://yoursite.com/2020/2020-06-28-%E5%A4%8F%E5%A4%A9%E4%B8%8E%E8%A5%BF%E7%93%9C/</id>
+    <published>2020-06-28T07:14:00.000Z</published>
+    <updated>2020-06-30T13:34:20.219Z</updated>
+    
+    <content type="html"><![CDATA[<p>夏天与西瓜</p><p>进入三伏天，气温一直走高。炎热的夏天，除了一些必须外出作业的职业人，其他人都选择把自己关在空调房里。空调、WIFI、西瓜是对付炎热夏天的三大法宝。</p><p>回到10年前，那时没有空调，没有WIFI，那时的夏天，只有西瓜和冰凉的清泉。</p><p>小时候一到夏天就不爱吃饭，即使母亲使出浑身解数也未能让我打开胃口，而只有西瓜每天一日三餐的喂饱我的肚子，支撑我一日又一日的超体力劳动。</p><p>来自农村家庭，每逢夏季都是一年四季最忙的季节。初夏开始收割草席，随后割稻子、种植第二季水稻、落花生……一项项农活一个接着一个来，每天早上四五点钟起床，除了中午休息两个小时，一直忙到晚上十点多。因为农活所以消耗的体力也极大，不爱吃饭的我，母亲每次都在担心我的身体是否承受得了，然而西瓜支撑着我一天又一天，陪我度过一个又一个难熬的夏天。</p><p>小时候家里有一片西瓜地，村里其他家庭也会种植西瓜。有的完全是自给自足，有的更多的是想将西瓜变换成人民币。</p><p>我们家每年都会种植一大片西瓜地，早上一早跟着父亲挑着箩筐，拉着双轮车来到田间，父亲先将熟了的西瓜一个个挑选摘下来，而我负责将父亲摘下放在不同地方的西瓜汇集一起，然后装进箩筐挑到双轮车上有序排好。</p><p>西瓜是极为矫情的水果，尤其是熟透了的西瓜更是矫情。为了让这些矫情的西瓜完好无损地出现在顾客手中，我与父亲必须对它们小心翼翼，但有时候也不免一时疏忽，一个外表绿油油的西瓜突然撕裂一声露出它那红色的囊，尽管最后他们的命运最终都是进入我的口中，但是在初看到的那一刻我还是会被瓜囊引诱，肚子也会不争气的咕噜咕噜响起来。</p><p>对于吃西瓜，我总是表现的非常粗鲁。每当有撕裂开的西瓜就与父亲一人一半，父亲不忙的时候会用手将西瓜掰成一小块一小块不规则的小西瓜片，相反我则端着大半个西瓜直接啃，西瓜吃完后满嘴都是西瓜汁，甜甜的又有些粘的感觉，父亲看到我的吃相总是无奈摇摇头说：女孩子，得注意下。</p><p>填饱肚子后继续把没有整理好的西瓜搬运到双轮车中，逮到早上8点左右，父亲与我就推着这些西瓜去赶集销售。</p><p>到了街上，父亲就叫我回家，即使我提出留下来帮他买西瓜。但是父亲因为担心别的同学会笑话我，所以每次将西瓜运到街上后，父亲都会让我回家，然后他自己将一个个甜甜的西瓜卖给需要的客户。</p><p>每到种植西瓜时，父亲都半开玩笑的跟我说：“这些西瓜都是为你种植的，如果收成好，就有钱给你缴学费了，如果收成不好那你就像别的孩子一样去打工赚钱。”所以，每年我都在祈祷西瓜的丰收，担心哪一年收成不好我就必须要离开学校。虽然，最后无论西瓜收成好与坏，我都能够坐在宽敞明亮的教室里上学，虽然知道父亲只是在跟我开玩笑，但我依旧每年祈祷西瓜地能有一篇好收成。</p><p>出来工作后，父母年龄大了，也不在种植西瓜。然而，离开家5年，除了买瓜送朋友外，很少会特意给自己买个西瓜吃。因为环绕在我味觉的是家里那片沙土地种出来的西瓜。所以，后来的夏天我也慢慢爱上了吃饭，再也不需要西瓜来维持一天的能量。</p><p>小时候的夏天，我的生命都是西瓜给的。如今，我也不再眷恋西瓜，不再眷恋一道菜、一种水果，对于夏天也不再像以前那么有所期待。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;夏天与西瓜&lt;/p&gt;
+&lt;p&gt;进入三伏天，气温一直走高。炎热的夏天，除了一些必须外出作业的职业人，其他人都选择把自己关在空调房里。空调、WIFI、西瓜是对付炎热夏天的三大法宝。&lt;/p&gt;
+&lt;p&gt;回到10年前，那时没有空调，没有WIFI，那时的夏天，只有西瓜和冰凉的清泉。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="水果" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/"/>
+    
+      <category term="美文" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/%E7%BE%8E%E6%96%87/"/>
+    
+    
+      <category term="西瓜,夏天，水果" scheme="http://yoursite.com/tags/%E8%A5%BF%E7%93%9C-%E5%A4%8F%E5%A4%A9%EF%BC%8C%E6%B0%B4%E6%9E%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>葡萄</title>
+    <link href="http://yoursite.com/2020/2020-06-28-%E8%91%A1%E8%90%84/"/>
+    <id>http://yoursite.com/2020/2020-06-28-%E8%91%A1%E8%90%84/</id>
+    <published>2020-06-28T07:14:00.000Z</published>
+    <updated>2020-06-30T14:48:41.809Z</updated>
+    
+    <content type="html"><![CDATA[<p>葡萄（学名：<em>Vitis vinifera</em> L.）为葡萄科<a href="https://baike.baidu.com/item/葡萄属" target="_blank" rel="noopener">葡萄属</a>木质<a href="https://baike.baidu.com/item/藤本植物" target="_blank" rel="noopener">藤本植物</a>，小枝圆柱形，有纵棱纹，无毛或被稀疏柔毛，叶卵圆形，<a href="https://baike.baidu.com/item/圆锥花序/1381805" target="_blank" rel="noopener">圆锥花序</a>密集或疏散，基部<a href="https://baike.baidu.com/item/分枝/8763966" target="_blank" rel="noopener">分枝</a><a href="https://baike.baidu.com/item/发达/118646" target="_blank" rel="noopener">发达</a>，果实球形或<a href="https://baike.baidu.com/item/椭圆形/10957419" target="_blank" rel="noopener">椭圆形</a>，<a href="https://baike.baidu.com/item/花期/13019857" target="_blank" rel="noopener">花期</a>4-5月，<a href="https://baike.baidu.com/item/果期/9857508" target="_blank" rel="noopener">果期</a>8-9月。</p><p>葡萄是世界最古老的果树树种之一，葡萄的<a href="https://baike.baidu.com/item/植物/142914" target="_blank" rel="noopener">植物</a><a href="https://baike.baidu.com/item/化石/82301" target="_blank" rel="noopener">化石</a>发现于第三纪地层中，说明当时已遍布于欧、亚及格陵兰。 [1] 葡萄原产亚洲西部，世界各地均有栽培， [2] 世界各地的葡萄约95%集中分布在北半球。 [3] </p><p>葡萄为著名水果，生食或制<a href="https://baike.baidu.com/item/葡萄干/709985" target="_blank" rel="noopener">葡萄干</a>，并<a href="https://baike.baidu.com/item/酿酒/10861354" target="_blank" rel="noopener">酿酒</a>，<a href="https://baike.baidu.com/item/酿酒/10861354" target="_blank" rel="noopener">酿酒</a>后的酒脚可提酒石酸，根和藤药用能止呕、<a href="https://baike.baidu.com/item/安胎/10571295" target="_blank" rel="noopener">安胎</a>。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;葡萄（学名：&lt;em&gt;Vitis vinifera&lt;/em&gt; L.）为葡萄科&lt;a href=&quot;https://baike.baidu.com/item/葡萄属&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;葡萄属&lt;/a&gt;木质&lt;a href=&quot;https://
+      
+    
+    </summary>
+    
+    
+      <category term="水果" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/"/>
+    
+      <category term="百科" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/%E7%99%BE%E7%A7%91/"/>
+    
+    
+      <category term="葡萄，百科" scheme="http://yoursite.com/tags/%E8%91%A1%E8%90%84%EF%BC%8C%E7%99%BE%E7%A7%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>火龙果</title>
+    <link href="http://yoursite.com/2020/2020-06-28-%E7%81%AB%E9%BE%99%E6%9E%9C/"/>
+    <id>http://yoursite.com/2020/2020-06-28-%E7%81%AB%E9%BE%99%E6%9E%9C/</id>
+    <published>2020-06-28T07:14:00.000Z</published>
+    <updated>2020-06-30T14:50:05.445Z</updated>
+    
+    <content type="html"><![CDATA[<p>火龙果的营养价值非常高，除了可以直接吃，还可以用来酿酒、制作罐头、做果酱等等。但最近在朋友圈总能看到这三种美食，让我大开眼界。</p><p><img src= "/img/loading.gif" data-src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=1715110062,2077061549&fm=173&app=25&f=JPEG?w=640&h=451&s=D48406BE5042D55F901F27A90300E00E" alt="img"></p><p>第一种：火龙果馒头</p><p>红心火龙果的果肉颜色非常鲜艳，再搭配上颜色雪白的面粉，这样红白相间的火龙果馒头就不信你看了没什么感觉。</p><p><img src= "/img/loading.gif" data-src="https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=64912724,3525198235&fm=173&app=25&f=JPEG?w=640&h=413&s=BAB76C8394B28D9C0714ED960300A081" alt="img"></p><p>食材：</p><p>白色部分：面粉、酵母、水、白糖各适量</p><p>红色部分：火龙果一个、面粉、酵母、白糖适量</p><p>做法：</p><p>1、火龙果果肉捣碎成泥</p><p>2、将火龙果泥和着面粉、酵母菌、白糖混合揉面。</p><p>3、将白色部分的面粉加上酵母、白糖和温水揉成面团</p><p>4、等面发好了，像蜂窝一样，再拿出来揉几下排气</p><p>5、将两个面团都擀成长方形，卷起来，并切成段</p><p>6、第二次发酵至1.5倍大时，大火烧开，转中火蒸1一刻钟，关火等几分钟就可以吃了。</p><p>第二种：火龙果软饼</p><p>火龙果软饼是一种非常好的宝宝辅食，比起直接吃火龙果，宝宝更容易接受这种好看的食物。这款中加入了蛋黄，火龙果的清甜加上蛋黄的香浓，真是人间美味。</p><p><img src= "/img/loading.gif" data-src="https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2776499042,3132127984&fm=173&app=25&f=JPEG?w=640&h=382&s=18AC66966A41625365A205EF0300E02B" alt="img"></p><p>食材：</p><p>火龙果半个、蛋黄一个、面粉适量</p><p>做法：</p><p>1、将火龙果的果肉放入搅拌机中搅成果汁</p><p>2、用过滤网把果汁过滤出来，再将蛋黄蛋清分离</p><p>3、将蛋黄加入过滤好的果汁中，搅拌均匀</p><p>4、将面粉加入火龙果糊中，搅拌均匀</p><p>5、平底锅上抹一层油，取一勺面糊，均匀的摊在平底锅上。</p><p>6、用小火慢慢烘烤，当饼成型，就可以翻面，直至小饼烘熟</p><p>第三种：火龙果椰奶糕</p><p>火龙果的清甜加上椰奶的香气，简直了。非常适合夏天食用，干燥的秋天也可以，可以组润喉咙！</p><p><img src= "/img/loading.gif" data-src="https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=1687684598,1249663711&fm=173&app=25&f=JPEG?w=640&h=414&s=D2C4F20FBBE083784CCB2FAE03007006" alt="img"></p><p>食材：</p><p>火龙果两个、椰浆500g、吉利丁片8片、水、细砂糖适量</p><p>做法：</p><p>1、将吉利丁片分成两份，用冰水浸泡</p><p>2、将火龙果肉切小块放入榨汁机，榨汁，并用筛子过滤</p><p>3、将火龙果汁加糖放入锅中，用小火加热，再把浸泡软的一半吉利丁片放锅中，一边用小火加热一边搅拌，直到吉利丁片全部融化，放凉</p><p>4、把椰浆加水和糖放入锅中小火加热，并将泡软的另一半吉利丁片放入锅中，一边加热一边搅拌，直到吉利丁片完全融化后，放凉</p><p>5、准备一个方形容器，先倒一层火龙果汁，用保鲜膜封好放入冰箱中冷藏几分钟，取出，再倒一层椰奶，再放进冰箱冷藏几分钟，取出；反复三四次即可，放到最后一层用保鲜膜封好，并放入冰箱冷藏三个小时左右即可食用</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;火龙果的营养价值非常高，除了可以直接吃，还可以用来酿酒、制作罐头、做果酱等等。但最近在朋友圈总能看到这三种美食，让我大开眼界。&lt;/p&gt;
+&lt;p&gt;&lt;img src= &quot;/img/loading.gif&quot; data-src=&quot;https://ss0.baidu.com/6ONWs
+      
+    
+    </summary>
+    
+    
+      <category term="水果" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/"/>
+    
+      <category term="做法" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/%E5%81%9A%E6%B3%95/"/>
+    
+    
+      <category term="火龙果，做法" scheme="http://yoursite.com/tags/%E7%81%AB%E9%BE%99%E6%9E%9C%EF%BC%8C%E5%81%9A%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>石榴</title>
+    <link href="http://yoursite.com/2020/2020-06-28-%E7%9F%B3%E6%A6%B4/"/>
+    <id>http://yoursite.com/2020/2020-06-28-%E7%9F%B3%E6%A6%B4/</id>
+    <published>2020-06-28T07:14:00.000Z</published>
+    <updated>2020-06-30T14:47:36.375Z</updated>
+    
+    <content type="html"><![CDATA[<p>石榴（拉丁名：<em>Punica granatum L.</em>）落叶<a href="https://baike.baidu.com/item/乔木/33239" target="_blank" rel="noopener">乔木</a>或<a href="https://baike.baidu.com/item/灌木" target="_blank" rel="noopener">灌木</a>；单叶，通常对生或簇生，无托叶。花顶生或近顶生，单生或几朵簇生或组成聚伞花序，近钟形，裂片5-9，花瓣5-9，多皱褶，覆瓦状排列；胚珠多数。浆果球形，顶端有宿存花萼裂片，果皮厚；种子多数，浆果近球形，果熟期9-10月。外种皮肉质半透明，多汁；内种皮革质。</p><p>性味甘、酸涩、温，具有杀虫、收敛、涩肠、止痢等功效。<a href="https://baike.baidu.com/item/石榴果" target="_blank" rel="noopener">石榴果</a>实营养丰富，维生素C含量比苹果、梨要高出一二倍。</p><p>中国栽培石榴的历史，可上溯至汉代，据陆巩记载是张骞从西域引入。中国南北都有栽培，以安徽、江苏、河南等地种植面积较大，并培育出一些较优质的品种。其中安徽怀远县是中国石榴之乡，“怀远石榴”为国家地理标志保护产品。</p><p>中国传统文化视石榴为吉祥物，视它为多子多福的象征。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;石榴（拉丁名：&lt;em&gt;Punica granatum L.&lt;/em&gt;）落叶&lt;a href=&quot;https://baike.baidu.com/item/乔木/33239&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;乔木&lt;/a&gt;或&lt;a href=&quot;https
+      
+    
+    </summary>
+    
+    
+      <category term="水果" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/"/>
+    
+      <category term="百科" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/%E7%99%BE%E7%A7%91/"/>
+    
+    
+      <category term="百科" scheme="http://yoursite.com/tags/%E7%99%BE%E7%A7%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>香蕉的作用与功效</title>
+    <link href="http://yoursite.com/2020/2020-06-28-%E9%A6%99%E8%95%89md/"/>
+    <id>http://yoursite.com/2020/2020-06-28-%E9%A6%99%E8%95%89md/</id>
+    <published>2020-06-28T07:14:00.000Z</published>
+    <updated>2020-06-30T14:12:59.426Z</updated>
+    
+    <content type="html"><![CDATA[<p>香蕉作用与功效</p><p>香蕉可以治疗高血压。因为高血压和心血管患者体内往往钠多、钾少，而香蕉中含有丰富的钾离子。钾离子可以抑制钠离子，钠离子有收缩血管和损害心血管的作用。吃香蕉可以维持体内钠钾的平衡和酸碱平衡，使神经、肌肉保持正常，心肌收缩协调。所以每天吃1-2根香蕉，对于高血压和心血管的患者有一定的益处。另外香蕉含有大量的镁，多吃可以使血中的镁含量升高，对于人的心血管系统产生抑制作用，可以起到解酒的功效。之前有医学家认为不可以空腹吃香蕉。</p><p>香蕉皮含有丰富的蛋白质、维生素及矿物质，其味甘微苦性凉，归肝、脾、肺经，功能解郁安神、健脾和胃、清热解毒，常用于：</p><p>1、疏肝清肝：香蕉皮的疏肝解郁、镇静安神作用，常用于治疗焦虑、抑郁症以及焦虑引起的高血压病。</p><p>2、健脾和胃：香蕉皮可以增进食欲，调整胃肠菌群，既可止泻，亦可通便，还可以用于消化性溃疡的治疗。</p><p>3、清热解毒：香蕉皮有较强的抑菌作用，可以清洁口腔，治疗口腔溃疡。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;香蕉作用与功效&lt;/p&gt;
+&lt;p&gt;香蕉可以治疗高血压。因为高血压和心血管患者体内往往钠多、钾少，而香蕉中含有丰富的钾离子。钾离子可以抑制钠离子，钠离子有收缩血管和损害心血管的作用。吃香蕉可以维持体内钠钾的平衡和酸碱平衡，使神经、肌肉保持正常，心肌收缩协调。所以每天吃1-2根香蕉
+      
+    
+    </summary>
+    
+    
+      <category term="水果" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/"/>
+    
+      <category term="作用" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/%E4%BD%9C%E7%94%A8/"/>
+    
+    
+      <category term="香蕉，作用，水果" scheme="http://yoursite.com/tags/%E9%A6%99%E8%95%89%EF%BC%8C%E4%BD%9C%E7%94%A8%EF%BC%8C%E6%B0%B4%E6%9E%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>黄瓜</title>
+    <link href="http://yoursite.com/2020/2020-06-28-%E9%BB%84%E7%93%9C/"/>
+    <id>http://yoursite.com/2020/2020-06-28-%E9%BB%84%E7%93%9C/</id>
+    <published>2020-06-28T07:14:00.000Z</published>
+    <updated>2020-06-30T14:51:34.132Z</updated>
+    
+    <content type="html"><![CDATA[<p>黄瓜炒香肠—黄瓜和香肠切好，起锅烧油，放蒜爆香然后锅中加入切好的黄瓜和香肠翻炒大约一分钟左右，放入盐再翻炒一会就可以出锅了。</p><p><a href="http://jingyan.baidu.com/album/f7ff0bfcd82ef02e26bb13d2.html?picindex=1" target="_blank" rel="noopener"><img src= "/img/loading.gif" data-src="https://exp-picture.cdn.bcebos.com/e57a258602214f57ae09350e732064fb970b73f4.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_500%2Climit_1" alt="黄瓜菜的做法"></a></p><p>炒黄瓜—起锅烧油，蒜末爆香，倒入黄瓜片，翻炒均匀，炒一分钟左右放入盐调味即可，既简单又美味。</p><p><a href="http://jingyan.baidu.com/album/f7ff0bfcd82ef02e26bb13d2.html?picindex=2" target="_blank" rel="noopener"><img src= "/img/loading.gif" data-src="https://exp-picture.cdn.bcebos.com/f9617afb960b3121463e6216dee983aee9d76df4.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_500%2Climit_1" alt="黄瓜菜的做法"></a></p><p>黄瓜炒鸡蛋—准备鸡蛋和黄瓜，锅内倒入油之后撒入鸡蛋，鸡蛋成块时倒入碗里，再加适量油，葱花爆香放入黄瓜翻炒，加入鸡蛋继续翻炒，出锅前放盐就可以了。</p><p><a href="http://jingyan.baidu.com/album/f7ff0bfcd82ef02e26bb13d2.html?picindex=3" target="_blank" rel="noopener"><img src= "/img/loading.gif" data-src="https://exp-picture.cdn.bcebos.com/e996472ae3efe0785f6eb903b96c576698cf65f4.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_500%2Climit_1" alt="黄瓜菜的做法"></a></p><p>拍黄瓜—黄瓜洗净，不用去皮，用刀拍扁然后切成块，放入醋、酱油、鸡精、盐、糖，蒜蓉，香菜等调料搅拌机均匀，盛入碗里即可。</p><p><a href="http://jingyan.baidu.com/album/f7ff0bfcd82ef02e26bb13d2.html?picindex=4" target="_blank" rel="noopener"><img src= "/img/loading.gif" data-src="https://exp-picture.cdn.bcebos.com/2e223d85e036e29112b75555b2723d03baea5bf4.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_500%2Climit_1" alt="黄瓜菜的做法"></a></p><p>腌黄瓜—黄瓜洗净晾干水分，撒上盐，腌三个小时控净水分备用。锅里倒入水放入适量糖将黄瓜和陈醋放在一起煮开，晾凉，放到容器里腌七天就可以吃了。</p><p><a href="http://jingyan.baidu.com/album/f7ff0bfcd82ef02e26bb13d2.html?picindex=5" target="_blank" rel="noopener"><img src= "/img/loading.gif" data-src="https://exp-picture.cdn.bcebos.com/6002c9d4483104eb96f839ba092b74ee1d324ef4.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_500%2Climit_1" alt="黄瓜菜的做法"></a></p><p>凉拌黄瓜—黄瓜切丝，拉皮用水浸泡，碗里放入醋、糖、酱油、香油、蒜末，加入切好的黄瓜丝和拉皮拌均匀即可。</p><p><a href="http://jingyan.baidu.com/album/f7ff0bfcd82ef02e26bb13d2.html?picindex=6" target="_blank" rel="noopener"><img src= "/img/loading.gif" data-src="https://exp-picture.cdn.bcebos.com/8db0c6a726334884a6bc2d99ddee7b7f870e45f4.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_500%2Climit_1" alt="黄瓜菜的做法"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;黄瓜炒香肠—黄瓜和香肠切好，起锅烧油，放蒜爆香然后锅中加入切好的黄瓜和香肠翻炒大约一分钟左右，放入盐再翻炒一会就可以出锅了。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://jingyan.baidu.com/album/f7ff0bfcd82ef02e26bb13d2.ht
+      
+    
+    </summary>
+    
+    
+      <category term="蔬果" scheme="http://yoursite.com/categories/%E8%94%AC%E6%9E%9C/"/>
+    
+      <category term="做法" scheme="http://yoursite.com/categories/%E8%94%AC%E6%9E%9C/%E5%81%9A%E6%B3%95/"/>
+    
+    
+      <category term="黄瓜，做法" scheme="http://yoursite.com/tags/%E9%BB%84%E7%93%9C%EF%BC%8C%E5%81%9A%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苹果的作用</title>
+    <link href="http://yoursite.com/2020/%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%BD%9C%E7%94%A8/"/>
+    <id>http://yoursite.com/2020/%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%BD%9C%E7%94%A8/</id>
+    <published>2020-06-28T07:14:00.000Z</published>
+    <updated>2020-06-30T14:12:23.595Z</updated>
+    
+    <content type="html"><![CDATA[<p>苹果的作用</p><p>1、苹果含有较多bai的钾，能与人体过剩的钠盐结du合，使之排出体外。当人体zhi摄入钠盐过多时，吃些苹果，有利于平dao衡体内电解质。</p><p>2、苹果中含有的磷和铁等元素，易被肠壁吸收，有补脑养血、宁神安眠作用。</p><p>3、降低胆固醇：保持血糖的稳定，还能有效降低胆固醇。</p><p>4、防癌抗癌：减少肺癌的危险，预防铅中毒，原花青素能预防结肠癌血。</p><p>5、呼吸管道清理剂：改善呼吸系统和肺功能，保护肺部免受污染和烟尘的影响。</p><p>6、促进胃肠蠕动：协助人体排出废物，减少有害物质对皮肤的危害。</p><p>7、维持酸碱平衡：苹果是碱性食品，吃苹果可迅速中和体内过多的酸性物质(包括运动(运动食品)产生的酸及鱼、肉、蛋等酸性食物在体内产生的酸性代谢产物)，增强体力和抗病能力。</p><p>8、减肥：苹果会增加饱腹感，饭前吃能减少进食量，达到减肥目的。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;苹果的作用&lt;/p&gt;
+&lt;p&gt;1、苹果含有较多bai的钾，能与人体过剩的钠盐结du合，使之排出体外。当人体zhi摄入钠盐过多时，吃些苹果，有利于平dao衡体内电解质。&lt;/p&gt;
+&lt;p&gt;2、苹果中含有的磷和铁等元素，易被肠壁吸收，有补脑养血、宁神安眠作用。&lt;/p&gt;
+&lt;p&gt;3、降低胆
+      
+    
+    </summary>
+    
+    
+      <category term="水果" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/"/>
+    
+      <category term="作用" scheme="http://yoursite.com/categories/%E6%B0%B4%E6%9E%9C/%E4%BD%9C%E7%94%A8/"/>
+    
+    
+      <category term="苹果,作用" scheme="http://yoursite.com/tags/%E8%8B%B9%E6%9E%9C-%E4%BD%9C%E7%94%A8/"/>
+    
+  </entry>
+  
+</feed>
